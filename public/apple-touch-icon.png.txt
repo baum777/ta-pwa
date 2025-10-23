@@ -1,0 +1,2 @@
+# Placeholder: Replace with actual 180x180 PNG icon for Apple devices
+# For development, you can generate icons at https://realfavicongenerator.net/
