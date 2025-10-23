@@ -1,0 +1,3 @@
+# Placeholder: Replace with actual 512x512 PNG icon
+# For development, you can generate icons at https://realfavicongenerator.net/
+# Or use ImageMagick: convert -size 512x512 -background "#00FF66" -fill "#000000" -gravity center -pointsize 192 label:"TA" icon-512.png
